@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547395567994",
+    "project_id": "split-up-2b046",
+    "storage_bucket": "split-up-2b046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547395567994:android:c3d169d1359fb2e18a96c3",
+        "android_client_info": {
+          "package_name": "com.example.spilt_money_with_friend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547395567994-0lv8ofkvm7l3iqj2gpistgap19ba1eqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh-N9gkqfA6-Z9i34LBxeE2PHiuB3YiYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547395567994-0lv8ofkvm7l3iqj2gpistgap19ba1eqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
